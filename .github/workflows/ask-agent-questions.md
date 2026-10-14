@@ -1,5 +1,5 @@
 ---
-name: Answer Agent Questions
+name: Ask Agent Questions
 description: Answers GitHub issue questions using evidence from the repository.
 on:
   label_command:
